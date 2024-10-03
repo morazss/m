@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.filmi_h
+{
+background-color: rgb(247, 0, 0);
+}
+
+.error
+{
+background-color: rgb(255, 136, 0);
+}
+
+.filmi_b
+{
+background-color: rgb(238, 255, 0);
+}
+
+.filmi_c
+{
+background-color: rgb(10, 94, 7);
+}
+
+.filmi_d
+{
+background-color: rgb(11, 3, 136);
+}
+
+.filmi_e
+{
+background-color: rgb(80, 2, 73);
+}
+
+
+
+p{
+    color: rgb(0, 0, 0);
+    margin-top: 100px;
+}
+
+img
+{
+    width: 400px;
+    height: 200px;
+    float: left;
+    shape-outside: url(papzan.png);
+    shape-margin: 20px;
+}
+
+
+#pap-text{
+    margin-top: 100px;
+}
